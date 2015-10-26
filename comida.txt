@@ -1,0 +1,21 @@
+﻿Lista de comida
+===============
+
+# Ordenada por orden alfabético en cada apartado
+
+Aperitivos
+----------
+
+Patatas fritas
+
+
+Platos principales
+------------------
+
+Chuletas de cabeza
+
+
+Postres
+-------
+
+Arroz con leche

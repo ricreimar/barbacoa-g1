@@ -1,0 +1,7 @@
+﻿Lista de asistentes
+===================
+
+# Ordenados por orden alfabético
+# Formato: Apellidos, Nombre
+
+Juan, Jorge
