@@ -3,4 +3,5 @@ Juegos
 
 # Posibles juegos en grupo, ordenados por orden alfabético
 
+Slackline
 Sogatira
