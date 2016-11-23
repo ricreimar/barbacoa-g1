@@ -7,9 +7,10 @@ Lista de bebidas
 ﻿Sin alcohol
 -----------
 
-Cerveza
+Cerveza sin
 
 Con alcohol
 -----------
 
-Cerveza sin
+Cerveza
+Rives 12 años
