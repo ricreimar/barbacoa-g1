@@ -6,6 +6,7 @@
 Aperitivos
 ----------
 
+Aceitunas
 Patatas fritas
 
 
@@ -13,9 +14,11 @@ Platos principales
 ------------------
 
 Chuletas de cabeza
+Chistorras
 
 
 Postres
 -------
 
 Arroz con leche
+Helado
