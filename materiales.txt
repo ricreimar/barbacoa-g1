@@ -7,6 +7,7 @@ Cocina y comida
 ---------------
 
 Cucharas
+Platos de plastico
 Tenedores
 
 
@@ -20,4 +21,5 @@ Sillas
 Diversión
 ---------
 
+Juego de la oca
 Radiocassette
