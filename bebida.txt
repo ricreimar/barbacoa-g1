@@ -8,6 +8,7 @@ Lista de bebidas
 -----------
 
 Cerveza sin
+Fanta de naranja
 
 Con alcohol
 -----------
