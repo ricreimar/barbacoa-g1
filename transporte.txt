@@ -4,10 +4,12 @@ Lista de coches
 Por orden alfabético
 
 # Coche, nombre del conductor, asientos totales y pasajeros
+# Pasajeros ordenados alfabéticamente: Apellidos, nombre
 
-Volkswage Golf (Torrecilla Fuentes, Jose Antonio, 5)
+Volkswagen Golf (Torrecilla Fuentes, Jose Antonio, 5)
 ----------------------------------------------------
-- Reina Martín, Ricardo
+-Chávez García, Ramón
+-Reina Martín, Ricardo
 -
 -
 -
