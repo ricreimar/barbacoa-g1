@@ -7,6 +7,7 @@ Cocina y comida
 ---------------
 
 Cucharas
+Plancha
 Tenedores
 
 
@@ -20,4 +21,5 @@ Sillas
 Diversión
 ---------
 
+Balón de fútbol
 Radiocassette

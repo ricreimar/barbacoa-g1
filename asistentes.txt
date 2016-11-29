@@ -4,6 +4,9 @@
 # Ordenados por orden alfabético
 # Formato: Apellidos, Nombre
 
+Chávez García, Ramón
 Crespo Jiménez, Carlos
+Gomez Galbarro, Rafaelr
 Juan, Jorge
+Reina Martín, Ricardo
 Torrecilla Fuentes, José Antonio
