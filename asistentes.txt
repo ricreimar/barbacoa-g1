@@ -5,5 +5,7 @@
 # Formato: Apellidos, Nombre
 
 Arroyo Aleman, Rafael
+Chávez García, Ramón
 Juan, Jorge
+Reina Martín, Ricardo
 Torrecilla Fuentes, José Antonio

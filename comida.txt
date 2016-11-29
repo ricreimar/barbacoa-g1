@@ -7,7 +7,9 @@ Aperitivos
 ----------
 
 Aceitunas
+Kikos
 Patatas fritas
+Pistachos
 
 
 Platos principales
@@ -17,6 +19,9 @@ Chuletas de cabeza
 Churrasco de pollo
 Chistorras
 Pinchitos de pollo
+Chistorras
+Chuletas de cabeza
+
 
 
 Postres
