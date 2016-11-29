@@ -5,7 +5,8 @@
 # Formato: Apellidos, Nombre
 
 Chávez García, Ramón
-Gomez Galbarro, Rafael
+Crespo Jiménez, Carlos
+Gomez Galbarro, Rafaelr
 Juan, Jorge
 Reina Martín, Ricardo
 Torrecilla Fuentes, José Antonio
