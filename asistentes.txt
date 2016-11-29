@@ -4,6 +4,7 @@
 # Ordenados por orden alfabético
 # Formato: Apellidos, Nombre
 
+Arroyo Aleman, Rafael
 Chávez García, Ramón
 Crespo Jiménez, Carlos
 Gomez Galbarro, Rafaelr
