@@ -9,10 +9,23 @@ Por orden alfabético
 Volkswagen Golf (Torrecilla Fuentes, Jose Antonio, 5)
 ----------------------------------------------------
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Reina Martín, Ricardo
 =======
 -Chávez García, Ramón
 >>>>>>> upstream/master
+=======
+- Luque Romero, Ruben
+-Chávez García, Ramón
+-Reina Martín, Ricardo
+-
+-
+-
+
+Focus Ford (Arroyo Aleman, Rafael, 5)
+----------------------------------------------------
+- 
+>>>>>>> master
 -
 -
 -
